@@ -1,0 +1,17 @@
+
+public class Main {
+	public static void main(String []args) {
+		
+		//Calculo da area de um trapezio a=(b + B) /2 * h
+		
+		double b = 6.0;
+		double B = 8.0;
+		double h = 5.0;
+		
+		double area = (b + B) /2 * h;
+		
+		System.out.println(area);
+		
+	}
+	
+}

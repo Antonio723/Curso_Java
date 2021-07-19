@@ -1,0 +1,23 @@
+package class_twenty_four;
+
+import java.util.Locale;
+
+public class Main {
+
+	public static void main(String[] args) {
+		double x = 10.35784;
+		System.out.println("digite, e ao fim a instrução pulao uma linha");
+		System.out.printf("%.2f\n",x);
+		System.out.printf("%.4f\n",x);
+		Locale.setDefault(Locale.US);
+		System.out.printf("%.4f\n",x);
+		
+		System.out.println("Para concatenar algo basta usar o operador '+' que ele irá juntar suas sentencas");
+		System.out.println("Variavel X : "+ x);
+		
+		System.out.println("Já para concatenar com o System.out.printf, basta no primeiro parametro usar string com a formatação, e no segundo o valor a ser substituido");
+		System.out.printf("O número %.2f é o mesmo que %.2f porém simplifcado %n", x);
+		
+	}
+
+}

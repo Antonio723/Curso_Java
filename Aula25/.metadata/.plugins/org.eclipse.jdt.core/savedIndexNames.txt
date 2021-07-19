@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\anton\Desktop\Cursos\Java\Udemy-(Nelio_Alves)\Aula25\.metadata\.plugins\org.eclipse.jdt.core
+1874914821.index
+2542421692.index
