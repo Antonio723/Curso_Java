@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\anton\Desktop\Teste conhecimento java\25\.metadata\.plugins\org.eclipse.jdt.core
+3905211634.index
+1865797976.index
+1544056821.index

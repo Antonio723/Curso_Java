@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		
+		int password;
+		//int password = in.nextInt();
+		
+		while(password != 2002) {
+			password = in.nextInt();
+			System.out.printf("Senha incorreta %n");
+		}
+	
+		in.close();
+	}
+}

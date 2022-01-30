@@ -1,0 +1,17 @@
+public class Main {
+	public static void main(String args[]) {
+		//para user o casting(conversão de tipo) basta usar a sintaxe
+		//tipo nomeVariavel = (tipo desejado) operação desejada
+		int x, y;
+		double result;
+		
+		x=5;
+		y=2;
+		
+		result = x/y;
+		System.out.println("Sem o casting: "+result);
+		
+		result = (double) x/y;
+		System.out.println("Com o casting "+result);
+	}
+}
