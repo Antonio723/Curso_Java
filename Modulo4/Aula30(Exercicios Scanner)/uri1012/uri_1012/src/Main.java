@@ -4,7 +4,7 @@ import java.util.Locale;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        Locale.setDefault(Locale.US);
+        Locale.setDefault(Locale.);
         Scanner in = new Scanner(System.in);
         double A = in.nextDouble();
         double B = in.nextDouble();
